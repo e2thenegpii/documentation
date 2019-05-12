@@ -12,7 +12,7 @@ As someone who is new to Nextcloud and new to CardBook here is what you need in 
 
 Once you've installed CardBook and Thunderbird do like this:
 
-1. In the bottom left of the Contacts View (in Nextcloud contatcs) look for a little impeller symbol that looks like this:
+1. In the bottom left of the Contacts View (in Nextcloud contacts) look for a little impeller symbol that looks like this:
 
 .. image:: ../images/contacts_link.png
 
